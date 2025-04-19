@@ -1,9 +1,0 @@
-{
-  "name": "LuauPolyfillTestModel",
-  "tree": {
-    "$className": "Folder",
-    "Packages": {
-      "$path": "Packages"
-    }
-  }
-}
