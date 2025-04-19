@@ -1,4 +1,4 @@
-local AssertionErrorModule = require("./AssertionError.global")
+local AssertionErrorModule = require("./AssertionError_global")
 
 export type AssertionError = AssertionErrorModule.AssertionError
 

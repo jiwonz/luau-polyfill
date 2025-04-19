@@ -4,7 +4,7 @@
 ]]
 local Symbol = require("./Symbol")
 export type Symbol = Symbol.Symbol
-local GlobalRegistry = require("./Registry.global")
+local GlobalRegistry = require("./Registry_global")
 
 local SymbolObject = setmetatable({}, {
 	--[[

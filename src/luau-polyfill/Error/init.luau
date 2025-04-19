@@ -1,3 +1,3 @@
-local Error = require("./Error.global")
+local Error = require("./Error_global")
 export type Error = Error.Error
 return Error
