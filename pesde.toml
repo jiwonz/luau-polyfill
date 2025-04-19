@@ -1,5 +1,5 @@
 name = "jiwonz/luau_polyfill"
-version = "0.1.0"
+version = "0.1.1"
 description = "A set of utilities to mimic common JS polyfills needed for translating projects from JS to Luau. Uploaded for pesde"
 authors = [
 	"jiwonz <me@jiwonz.kr>",
