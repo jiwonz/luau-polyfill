@@ -1,29 +1,6 @@
-# Libraries don't commit lockfiles, apps do
-rotriever.lock
+.playground
+.pesde
+luau_packages
+lune_packages
 
-# Dependencies
-Packages/*
-!Packages/.robloxrc
-!Packages/_Workspace/
-Packages/_Workspace/*
-!Packages/_Workspace/.robloxrc
-
-# Rbxm model files
-**/*.rbx[lm]*
-
-# Misc OS files
-.DS_Store
-
-# Local IDE settings
-.vscode/*
-.idea/
-sourcemap.json
-!.vscode/launch.sample.json
-
-# Code coverage data files
-**/luacov.*
-**/lcov*.info
-
-# selene default roblox.toml
-roblox.toml
-
+/target

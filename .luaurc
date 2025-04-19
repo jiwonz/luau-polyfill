@@ -1,0 +1,8 @@
+{
+  "aliases": {
+    "luau_pkg": "./luau_packages/",
+    "lune": "~/.lune/.typedefs/0.8.9/",
+    "pkg": "./luau_packages/"
+  },
+  "languageMode": "strict"
+}
